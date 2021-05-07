@@ -1,4 +1,13 @@
-# rps_sim
-A rock paper scissors simulator made with c++.
+A Rock Paper Scissors Simulator made in c++
 
-I made this rock paper scissors simulator in c++ today. You can do what ever you want with the source code, I dont care.
+There are 2 versions
+
+1.0:
+ This version is somewhat choppy in the text output an does not off as much features as 2.0;
+ 
+2.0:
+ This version is a completely updated version of the original. The animations are much smoother and the source code is more organized and compact.
+ 
+ 
+ 
+ I made this becuase I was bored.
